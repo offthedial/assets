@@ -1,7 +1,7 @@
 # Conditions of Use
 Any the assets contained in this repository are distributed freely with the given terms.
 
-When used in still formats (such as an image overlay) any 'asset' of 'Off the Dial' and/or it's tournaments may not be altered in the following ways:
+When used in still formats (such as an image overlay) any 'asset' of 'Off the Dial' and/or it's tournaments **may not** be altered in the following ways:
 - Have its proportions changed
 - Changed text fonts or sizing
 - Altered the symbols and shapes present on the 'asset'
