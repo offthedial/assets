@@ -15,4 +15,4 @@ When used in moving formats (such as a video or moving gid) any 'asset' of 'Off 
 An 'asset' refers to any image, logo, banner, video, stinger, animation created for the purpose of Off the Dial or its tournaments.
 
 ### These assets can not be used for commercial use
-*Note: This doesn't include if your advertising/thumbnails for your own stream/video where you're playing in an Off the Dial. 3rd party promotion for Off the Dial is also excluded from this.*
+*Note: This doesn't include if you're advertising/thumbnails for your own stream/video where you're playing in an Off the Dial event. 3rd party promotion for Off the Dial is also excluded from this.*
