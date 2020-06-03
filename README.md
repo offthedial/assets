@@ -9,7 +9,7 @@ When used in still formats (such as an image overlay) any 'asset' of 'Off the Di
 - Any subtractions from the logo
 - Any additions to the logo that intentionally covers up parts of the logo
 
-When used in moving formats (such as a video or moving gid) any 'asset' of 'Off the Dial' and/or it's tournaments may be altered in the following ways:
+When used in moving formats (such as a video or moving gif) any 'asset' of 'Off the Dial' and/or it's tournaments may be altered in the following ways:
 - Separate parts of the logo may be moved (such as the dial, octo and phone)
 
 An 'asset' refers to any image, logo, banner, video, stinger, animation created for the purpose of Off the Dial or its tournaments.
