@@ -4,7 +4,7 @@ This repository contains all of the public assets used for Off the Dial.
 ## How to use
 There are 2 main ways to get access to the assets:
 - You can find all of the assets on [Github](https://github.com/offthedial/assets)
-- You can get a direct link to an asset by going to `assets.otd.ink/<image>.png`. *(recommended)*
+- You can get a direct link to an asset by going to [`assets.otd.ink/<image>.png`](https://assets.otd.ink). *(recommended)*
 
 ## LICENSE
 
