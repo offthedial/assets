@@ -9,9 +9,13 @@ There are 2 main ways to get access to the assets:
 
 ## Colours
 Light blue: `#1abfc7`
+
 Dark blue: `#5d9194`
+
 Green: `#39fa96`
+
 Pink: `#fb788b`
+
 Purple: `#c71a8a`
 
 ## LICENSE
