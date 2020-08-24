@@ -4,8 +4,8 @@ This repository contains all of the public assets used for Off the Dial.
 
 ## How to access the assets
 There are 2 main ways to get access to the assets:
-- You can [download all of the assets](https://github.com/offthedial/assets/archive/master.zip) on the [Github Repository](https://github.com/offthedial/assets).
-- You can get a direct link to an asset by going to [`assets.otd.ink/<image>.png`](https://assets.otd.ink). *(recommended)*
+- You can download all of the assets on the by selecting the latest release on the [assets GitHub page](https://github.com/offthedial/assets).
+- You can get a direct link to an asset by going to [`assets.otd.ink/<image>.png`](https://assets.otd.ink). *(recommended for individual images)*
 
 ## Colours
 Light blue: `#1abfc7`
