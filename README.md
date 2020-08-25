@@ -8,7 +8,8 @@ There are 2 main ways to get access to the assets:
 - You can get a direct link to an asset by going to [`assets.otd.ink/<image>.png`](https://assets.otd.ink). *(recommended for individual images)*
 
 ## Colour Palette
-![palette](palette.png)
+[![palette](palette.png)](
+https://coolors.co/5d9194-1abfc7-39fa96-fb788b-c71a8a)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="
