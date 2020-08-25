@@ -7,16 +7,8 @@ There are 2 main ways to get access to the assets:
 - You can download all of the assets on the by selecting the latest release on the [assets GitHub page](https://github.com/offthedial/assets).
 - You can get a direct link to an asset by going to [`assets.otd.ink/<image>.png`](https://assets.otd.ink). *(recommended for individual images)*
 
-## Colours
-Light blue: `#1abfc7`
-
-Dark blue: `#5d9194`
-
-Green: `#39fa96`
-
-Pink: `#fb788b`
-
-Purple: `#c71a8a`
+## Colour Palette
+![palette](palette.png)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="
