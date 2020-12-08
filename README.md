@@ -1,6 +1,6 @@
 # Off the Dial public assets
 This repository contains all of the public assets used for Off the Dial.
-> When using any asset, please give the logo/banner some space (these assets are shared to you under a no derivatives licence, see below). For example, with the logos nothing may overlap that circle or go inside of the circle. Similarly with the banners, nothing may overlap anything that we've created.
+> When using any asset, please give the logo/banner some space. For example, with the logos nothing may overlap that circle or go inside of the circle. Similarly with the banners, nothing may overlap anything that we've created.
 
 ## How to access the assets
 There are 2 main ways to get access to the assets:
