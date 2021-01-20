@@ -1,6 +1,5 @@
 # Off the Dial public assets
 This repository contains all of the public assets used for Off the Dial.
-> When using any asset, please give the logo/banner some space. For example, with the logos nothing may overlap that circle or go inside of the circle. Similarly with the banners, nothing may overlap anything that we've created.
 
 ## How to access the assets
 There are 2 main ways to get access to the assets:
@@ -11,5 +10,19 @@ There are 2 main ways to get access to the assets:
 [![palette](palette.png)](
 https://coolors.co/5d9194-1abfc7-39fa96-fb788b-c71a8a)
 
-## Usage
-If you're unsure on how you're allowed use it, please either [create an issue](https://github.com/offthedial/assets/issues/new) or [send an email](mailto:djam98@otd.ink?subject=Off%20the%20Dial%20Assets).
+## LICENSE
+<p xmlns:cc="http://creativecommons.org/ns#">
+  This work by
+  <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://otd.ink">
+    Off the Dial
+  </a>
+  is licensed under
+  <a href="http://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank" rel="license noopener noreferrer">
+    CC BY-NC-ND 4.0
+    <br />
+    <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" />
+    <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" />
+    <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" />
+    <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" />
+  </a>
+</p>
