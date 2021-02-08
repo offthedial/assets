@@ -17,12 +17,11 @@ https://coolors.co/5d9194-1abfc7-39fa96-fb788b-c71a8a)
     Off the Dial
   </a>
   is licensed under
-  <a href="http://creativecommons.org/licenses/by-nc-nd/4.0" target="_blank" rel="license noopener noreferrer">
-    CC BY-NC-ND 4.0
+  <a href="http://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
+    CC BY-ND 4.0
     <br />
     <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" />
     <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" />
-    <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" />
     <img height="22px" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" />
   </a>
 </p>
