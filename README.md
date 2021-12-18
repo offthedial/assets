@@ -11,5 +11,8 @@ There are 2 main ways to get access to the assets:
 [![palette](palette.png)](
 https://coolors.co/5d9194-1abfc7-39fa96-fb788b-c71a8a)
 
+## Credit
+Huge thank you to @L1ttl3R3d#1003 for making the main and IDTGA logos and banners.
+
 ## Usage
 If you're unsure on how you're allowed use it, please either [create an issue](https://github.com/offthedial/assets/issues/new) or [send an email](mailto:djam98@otd.ink?subject=Off%20the%20Dial%20Assets).
