@@ -15,7 +15,7 @@ https://coolors.co/5d9194-1abfc7-39fa96-fb788b-c71a8a)
 We use two font families. Museo Sans (Adobe Font) and DM Sans (Google Font)
 
 ## Credit
-Huge thank you to [L1ttl3R3d](https://twitter.com/l1ttl3r3d_) and [Ambird](https://twitter.com/ambirdoodles)for making the main and IDTGA logos and banners.
+Huge thank you to [L1ttl3R3d](https://twitter.com/l1ttl3r3d_) and [Ambird](https://twitter.com/ambirdoodles) for making the main and IDTGA logos and banners.
 
 ## Usage
 If you're unsure on how you're allowed use it, please either [create an issue](https://github.com/offthedial/assets/issues/new) or [send an email](mailto:djam98@otd.ink?subject=Off%20the%20Dial%20Assets).
